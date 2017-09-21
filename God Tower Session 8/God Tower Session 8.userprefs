@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GameControllerLevel3.cs">
+    <Files>
+      <File FileName="Assets\GameControllerLevel3.cs" Line="43" Column="1" />
+      <File FileName="Assets\GameControllerLevel2fix.cs" Line="32" Column="7" />
+      <File FileName="Assets\GameControllerLevel1fix.cs" Line="34" Column="18" />
+      <File FileName="Assets\GameControllerLevel1.cs" Line="36" Column="4" />
+      <File FileName="Assets\Scripts\ButtonBegin.cs" Line="34" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Level 3 hint.unity
+  isLoaded: 1
+  isActive: 1
